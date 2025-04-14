@@ -3,13 +3,13 @@ import { defineConfig } from "vocs";
 export default defineConfig({
   aiCta: false,
   title: "Hyperscan",
-  // iconUrl: {
-  //   light: "text-logo-white.svg",
-  //   dark: "text-logo-black.svg",
-  // },
+  iconUrl: {
+    light: "icon-dark.svg",
+    dark: "icon-light.svg",
+  },
   logoUrl: {
-    light: "text-logo-black.svg",
-    dark: "text-logo-white.svg",
+    light: "logo-dark.svg",
+    dark: "logo-light.svg",
   },
   description: "Hyperscan developer hub.",
   sidebar: [
