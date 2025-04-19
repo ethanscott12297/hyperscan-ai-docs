@@ -4,8 +4,8 @@ export default defineConfig({
   aiCta: false,
   title: "Hyperscan",
   iconUrl: {
-    light: "icon-dark.svg",
-    dark: "icon-light.svg",
+    light: "icon-light.svg",
+    dark: "icon-dark.svg",
   },
   logoUrl: {
     light: "logo-dark.svg",
