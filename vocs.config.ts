@@ -47,5 +47,35 @@ export default defineConfig({
         },
       ],
     },
+    {
+      text: "API & SDK",
+      link: "/business/api-sdk",
+    },
+    {
+      text: "Troubleshooting",
+      items: [
+        {
+          text: "Common Issues",
+          link: "/business/troubleshooting/common-issues",
+        },
+        {
+          text: "Contact Support",
+          link: "/business/troubleshooting/contact-support",
+        },
+      ],
+    },
+    {
+      text: "Partnerships",
+      items: [
+        {
+          text: "How to Partner",
+          link: "/business/partnerships/how-to-partner",
+        },
+        {
+          text: "Partner Benefits",
+          link: "/business/partnerships/benefits",
+        },
+      ],
+    },
   ],
 });
